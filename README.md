@@ -1,2 +1,2 @@
 # Java_EDU
-Java MJC School course
+Java course
